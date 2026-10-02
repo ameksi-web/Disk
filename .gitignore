@@ -1,0 +1,21 @@
+# Large fetched corpora are intentionally not committed.
+data/wiki_*.jsonl
+data/books_*.jsonl
+data/code_*.jsonl
+data/chat_memory*.jsonl
+data/corpus_5000.txt
+data/*.tmp
+
+# Keep the demo model, ignore extra training outputs by default.
+runs/*.json
+!runs/delta1flash_demo_model.json
+!runs/delta1flash_chat_model.json
+runs/*.jsonl
+runs/*.log
+
+# Local chat histories.
+chats/
+
+__pycache__/
+*.pyc
+.venv/

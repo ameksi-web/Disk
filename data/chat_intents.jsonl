@@ -1,0 +1,438 @@
+{"text": "привет", "label": "greeting"}
+{"text": "пр", "label": "greeting"}
+{"text": "ау", "label": "greeting"}
+{"text": "эй", "label": "greeting"}
+{"text": "здарова", "label": "greeting"}
+{"text": "hello", "label": "greeting"}
+{"text": "hi", "label": "greeting"}
+{"text": "добрый день", "label": "greeting"}
+{"text": "как ты будешь отвечать", "label": "answer_style"}
+{"text": "как отвечаешь", "label": "answer_style"}
+{"text": "как ты отвечаешь", "label": "answer_style"}
+{"text": "как будешь отвечать мне", "label": "answer_style"}
+{"text": "how will you answer", "label": "answer_style_en"}
+{"text": "answer style", "label": "answer_style_en"}
+{"text": "как обучается модель", "label": "training"}
+{"text": "как идет обучение", "label": "training"}
+{"text": "что такое loss", "label": "training"}
+{"text": "объясни sgd", "label": "training"}
+{"text": "реальное обучение нейросети", "label": "training"}
+{"text": "модель не обучалась", "label": "training"}
+{"text": "как проверить обучение", "label": "training"}
+{"text": "бесконечное обучение", "label": "forever"}
+{"text": "обучайся бесконечно", "label": "forever"}
+{"text": "forever training", "label": "forever"}
+{"text": "постоянное обучение", "label": "forever"}
+{"text": "как включить бесконечное обучение", "label": "forever"}
+{"text": "что ты умеешь", "label": "capabilities"}
+{"text": "help", "label": "capabilities"}
+{"text": "помощь", "label": "capabilities"}
+{"text": "какие команды есть", "label": "capabilities"}
+{"text": "напиши код hello на python", "label": "code_python"}
+{"text": "python hello", "label": "code_python"}
+{"text": "код на python", "label": "code_python"}
+{"text": "функция сложения python", "label": "code_python"}
+{"text": "write hello in Python", "label": "code_python"}
+{"text": "напиши javascript add", "label": "code_js"}
+{"text": "код javascript", "label": "code_js"}
+{"text": "js function add", "label": "code_js"}
+{"text": "спасибо", "label": "thanks"}
+{"text": "спс", "label": "thanks"}
+{"text": "thanks", "label": "thanks"}
+{"text": "нормально", "label": "thanks"}
+{"text": "заебал", "label": "frustration"}
+{"text": "ты заебал", "label": "frustration"}
+{"text": "мда уж", "label": "frustration"}
+{"text": "плохо отвечаешь", "label": "frustration"}
+{"text": "исправь ответ", "label": "frustration"}
+{"text": "это не реальная модель", "label": "frustration"}
+{"text": "надо реальную модель", "label": "frustration"}
+{"text": "хватит повторять", "label": "frustration"}
+{"text": "а", "label": "unknown"}
+{"text": "у", "label": "unknown"}
+{"text": "уа", "label": "unknown"}
+{"text": "ауа", "label": "unknown"}
+{"text": "ваы", "label": "unknown"}
+{"text": "аыф", "label": "unknown"}
+{"text": "эавфы", "label": "unknown"}
+{"text": "авджыжва", "label": "unknown"}
+{"text": "фаывждлдлдавфыжвыдл", "label": "unknown"}
+{"text": "вфаыждлыдвжфалжфавлжфаывдлжыфавлжыааважавыыаффвллдлыафвлф", "label": "unknown"}
+{"text": "logic", "label": "unknown"}
+{"text": "ало", "label": "greeting"}
+{"text": "алло", "label": "greeting"}
+{"text": "ку", "label": "greeting"}
+{"text": "йо", "label": "greeting"}
+{"text": "здаров", "label": "greeting"}
+{"text": "ты тут", "label": "greeting"}
+{"text": "есть кто", "label": "greeting"}
+{"text": "ping", "label": "greeting"}
+{"text": "test", "label": "greeting"}
+{"text": "проверка связи", "label": "greeting"}
+{"text": "как с тобой говорить", "label": "answer_style"}
+{"text": "как правильно спрашивать", "label": "answer_style"}
+{"text": "как задавать вопросы", "label": "answer_style"}
+{"text": "что писать чтобы ты понял", "label": "answer_style"}
+{"text": "как формулировать запрос", "label": "answer_style"}
+{"text": "говори нормально", "label": "answer_style"}
+{"text": "отвечай нормально", "label": "answer_style"}
+{"text": "все слова и значения", "label": "dictionary"}
+{"text": "слова и значение", "label": "dictionary"}
+{"text": "напиши все слова", "label": "dictionary"}
+{"text": "какие слова ты понимаешь", "label": "dictionary"}
+{"text": "что ты понимаешь", "label": "dictionary"}
+{"text": "словарь команд", "label": "dictionary"}
+{"text": "как говорить чтобы ты понимал", "label": "dictionary"}
+{"text": "значение слов", "label": "dictionary"}
+{"text": "intent список", "label": "dictionary"}
+{"text": "покажи интенты", "label": "dictionary"}
+{"text": "реальная модель", "label": "training"}
+{"text": "реально обучается", "label": "training"}
+{"text": "как улучшить модель", "label": "training"}
+{"text": "как сделать чтобы улучшался", "label": "training"}
+{"text": "как понять что улучшился", "label": "training"}
+{"text": "eval loss", "label": "training"}
+{"text": "batch loss", "label": "training"}
+{"text": "sgd обучение", "label": "training"}
+{"text": "softmax обучение", "label": "training"}
+{"text": "нейросеть учится", "label": "training"}
+{"text": "пусть учится всегда", "label": "forever"}
+{"text": "пусть бесконечно обучается", "label": "forever"}
+{"text": "чтобы train.py учился бесконечно", "label": "forever"}
+{"text": "train.py бесконечно", "label": "forever"}
+{"text": "запусти вечное обучение", "label": "forever"}
+{"text": "continuous training", "label": "forever"}
+{"text": "infinite training", "label": "forever"}
+{"text": "как остановить бесконечное обучение", "label": "forever"}
+{"text": "команды", "label": "capabilities"}
+{"text": "что можешь", "label": "capabilities"}
+{"text": "возможности", "label": "capabilities"}
+{"text": "покажи помощь", "label": "capabilities"}
+{"text": "что умеет delta", "label": "capabilities"}
+{"text": "что умеет модель", "label": "capabilities"}
+{"text": "напиши python", "label": "code_python"}
+{"text": "пример python", "label": "code_python"}
+{"text": "hello python", "label": "code_python"}
+{"text": "python функция", "label": "code_python"}
+{"text": "сложение python", "label": "code_python"}
+{"text": "код сложения", "label": "code_python"}
+{"text": "напиши код", "label": "code_python"}
+{"text": "дай код", "label": "code_python"}
+{"text": "пример javascript", "label": "code_js"}
+{"text": "javascript код", "label": "code_js"}
+{"text": "js код", "label": "code_js"}
+{"text": "функция javascript", "label": "code_js"}
+{"text": "ок", "label": "thanks"}
+{"text": "понял", "label": "thanks"}
+{"text": "поняла", "label": "thanks"}
+{"text": "хорошо", "label": "thanks"}
+{"text": "спасибо большое", "label": "thanks"}
+{"text": "круто", "label": "thanks"}
+{"text": "ты тупой", "label": "frustration"}
+{"text": "бесишь", "label": "frustration"}
+{"text": "достал", "label": "frustration"}
+{"text": "надоел", "label": "frustration"}
+{"text": "опять повторяешь", "label": "frustration"}
+{"text": "не повторяй", "label": "frustration"}
+{"text": "плохо", "label": "frustration"}
+{"text": "говно ответ", "label": "frustration"}
+{"text": "ты не понимаешь", "label": "frustration"}
+{"text": "не понял меня", "label": "frustration"}
+{"text": "не работает", "label": "frustration"}
+{"text": "ывфыва", "label": "unknown"}
+{"text": "фывфыв", "label": "unknown"}
+{"text": "ываыва", "label": "unknown"}
+{"text": "аааааа", "label": "unknown"}
+{"text": "уууу", "label": "unknown"}
+{"text": "ыыы", "label": "unknown"}
+{"text": "жжжжж", "label": "unknown"}
+{"text": "лдлдлд", "label": "unknown"}
+{"text": "qwerty", "label": "unknown"}
+{"text": "asdf", "label": "unknown"}
+{"text": "asdasd", "label": "unknown"}
+{"text": "???", "label": "unknown"}
+{"text": "...", "label": "unknown"}
+{"text": "123123", "label": "unknown"}
+{"text": "алфавит", "label": "alphabet"}
+{"text": "русский алфавит", "label": "alphabet"}
+{"text": "буквы", "label": "alphabet"}
+{"text": "все буквы", "label": "alphabet"}
+{"text": "все буквы русского алфавита", "label": "alphabet"}
+{"text": "покажи алфавит", "label": "alphabet"}
+{"text": "какие буквы есть", "label": "alphabet"}
+{"text": "список букв", "label": "alphabet"}
+{"text": "буквы русского языка", "label": "alphabet"}
+{"text": "все русские буквы", "label": "alphabet"}
+{"text": "азбука", "label": "alphabet"}
+{"text": "русская азбука", "label": "alphabet"}
+{"text": "буква", "label": "alphabet"}
+{"text": "что такое буква", "label": "alphabet"}
+{"text": "напиши алфавит", "label": "alphabet"}
+{"text": "назови алфавит", "label": "alphabet"}
+{"text": "а", "label": "alphabet"}
+{"text": "А", "label": "alphabet"}
+{"text": "буква а", "label": "alphabet"}
+{"text": "что значит буква а", "label": "alphabet"}
+{"text": "это буква а", "label": "alphabet"}
+{"text": "а буква", "label": "alphabet"}
+{"text": "б", "label": "alphabet"}
+{"text": "Б", "label": "alphabet"}
+{"text": "буква б", "label": "alphabet"}
+{"text": "что значит буква б", "label": "alphabet"}
+{"text": "это буква б", "label": "alphabet"}
+{"text": "б буква", "label": "alphabet"}
+{"text": "бэ", "label": "alphabet"}
+{"text": "в", "label": "alphabet"}
+{"text": "В", "label": "alphabet"}
+{"text": "буква в", "label": "alphabet"}
+{"text": "что значит буква в", "label": "alphabet"}
+{"text": "это буква в", "label": "alphabet"}
+{"text": "в буква", "label": "alphabet"}
+{"text": "вэ", "label": "alphabet"}
+{"text": "г", "label": "alphabet"}
+{"text": "Г", "label": "alphabet"}
+{"text": "буква г", "label": "alphabet"}
+{"text": "что значит буква г", "label": "alphabet"}
+{"text": "это буква г", "label": "alphabet"}
+{"text": "г буква", "label": "alphabet"}
+{"text": "гэ", "label": "alphabet"}
+{"text": "д", "label": "alphabet"}
+{"text": "Д", "label": "alphabet"}
+{"text": "буква д", "label": "alphabet"}
+{"text": "что значит буква д", "label": "alphabet"}
+{"text": "это буква д", "label": "alphabet"}
+{"text": "д буква", "label": "alphabet"}
+{"text": "дэ", "label": "alphabet"}
+{"text": "е", "label": "alphabet"}
+{"text": "Е", "label": "alphabet"}
+{"text": "буква е", "label": "alphabet"}
+{"text": "что значит буква е", "label": "alphabet"}
+{"text": "это буква е", "label": "alphabet"}
+{"text": "е буква", "label": "alphabet"}
+{"text": "ё", "label": "alphabet"}
+{"text": "Ё", "label": "alphabet"}
+{"text": "буква ё", "label": "alphabet"}
+{"text": "что значит буква ё", "label": "alphabet"}
+{"text": "это буква ё", "label": "alphabet"}
+{"text": "ё буква", "label": "alphabet"}
+{"text": "ж", "label": "alphabet"}
+{"text": "Ж", "label": "alphabet"}
+{"text": "буква ж", "label": "alphabet"}
+{"text": "что значит буква ж", "label": "alphabet"}
+{"text": "это буква ж", "label": "alphabet"}
+{"text": "ж буква", "label": "alphabet"}
+{"text": "жэ", "label": "alphabet"}
+{"text": "з", "label": "alphabet"}
+{"text": "З", "label": "alphabet"}
+{"text": "буква з", "label": "alphabet"}
+{"text": "что значит буква з", "label": "alphabet"}
+{"text": "это буква з", "label": "alphabet"}
+{"text": "з буква", "label": "alphabet"}
+{"text": "зэ", "label": "alphabet"}
+{"text": "и", "label": "alphabet"}
+{"text": "И", "label": "alphabet"}
+{"text": "буква и", "label": "alphabet"}
+{"text": "что значит буква и", "label": "alphabet"}
+{"text": "это буква и", "label": "alphabet"}
+{"text": "и буква", "label": "alphabet"}
+{"text": "й", "label": "alphabet"}
+{"text": "Й", "label": "alphabet"}
+{"text": "буква й", "label": "alphabet"}
+{"text": "что значит буква й", "label": "alphabet"}
+{"text": "это буква й", "label": "alphabet"}
+{"text": "й буква", "label": "alphabet"}
+{"text": "и краткое", "label": "alphabet"}
+{"text": "к", "label": "alphabet"}
+{"text": "К", "label": "alphabet"}
+{"text": "буква к", "label": "alphabet"}
+{"text": "что значит буква к", "label": "alphabet"}
+{"text": "это буква к", "label": "alphabet"}
+{"text": "к буква", "label": "alphabet"}
+{"text": "ка", "label": "alphabet"}
+{"text": "л", "label": "alphabet"}
+{"text": "Л", "label": "alphabet"}
+{"text": "буква л", "label": "alphabet"}
+{"text": "что значит буква л", "label": "alphabet"}
+{"text": "это буква л", "label": "alphabet"}
+{"text": "л буква", "label": "alphabet"}
+{"text": "эль", "label": "alphabet"}
+{"text": "м", "label": "alphabet"}
+{"text": "М", "label": "alphabet"}
+{"text": "буква м", "label": "alphabet"}
+{"text": "что значит буква м", "label": "alphabet"}
+{"text": "это буква м", "label": "alphabet"}
+{"text": "м буква", "label": "alphabet"}
+{"text": "эм", "label": "alphabet"}
+{"text": "н", "label": "alphabet"}
+{"text": "Н", "label": "alphabet"}
+{"text": "буква н", "label": "alphabet"}
+{"text": "что значит буква н", "label": "alphabet"}
+{"text": "это буква н", "label": "alphabet"}
+{"text": "н буква", "label": "alphabet"}
+{"text": "эн", "label": "alphabet"}
+{"text": "о", "label": "alphabet"}
+{"text": "О", "label": "alphabet"}
+{"text": "буква о", "label": "alphabet"}
+{"text": "что значит буква о", "label": "alphabet"}
+{"text": "это буква о", "label": "alphabet"}
+{"text": "о буква", "label": "alphabet"}
+{"text": "п", "label": "alphabet"}
+{"text": "П", "label": "alphabet"}
+{"text": "буква п", "label": "alphabet"}
+{"text": "что значит буква п", "label": "alphabet"}
+{"text": "это буква п", "label": "alphabet"}
+{"text": "п буква", "label": "alphabet"}
+{"text": "пэ", "label": "alphabet"}
+{"text": "р", "label": "alphabet"}
+{"text": "Р", "label": "alphabet"}
+{"text": "буква р", "label": "alphabet"}
+{"text": "что значит буква р", "label": "alphabet"}
+{"text": "это буква р", "label": "alphabet"}
+{"text": "р буква", "label": "alphabet"}
+{"text": "эр", "label": "alphabet"}
+{"text": "с", "label": "alphabet"}
+{"text": "С", "label": "alphabet"}
+{"text": "буква с", "label": "alphabet"}
+{"text": "что значит буква с", "label": "alphabet"}
+{"text": "это буква с", "label": "alphabet"}
+{"text": "с буква", "label": "alphabet"}
+{"text": "эс", "label": "alphabet"}
+{"text": "т", "label": "alphabet"}
+{"text": "Т", "label": "alphabet"}
+{"text": "буква т", "label": "alphabet"}
+{"text": "что значит буква т", "label": "alphabet"}
+{"text": "это буква т", "label": "alphabet"}
+{"text": "т буква", "label": "alphabet"}
+{"text": "тэ", "label": "alphabet"}
+{"text": "у", "label": "alphabet"}
+{"text": "У", "label": "alphabet"}
+{"text": "буква у", "label": "alphabet"}
+{"text": "что значит буква у", "label": "alphabet"}
+{"text": "это буква у", "label": "alphabet"}
+{"text": "у буква", "label": "alphabet"}
+{"text": "ф", "label": "alphabet"}
+{"text": "Ф", "label": "alphabet"}
+{"text": "буква ф", "label": "alphabet"}
+{"text": "что значит буква ф", "label": "alphabet"}
+{"text": "это буква ф", "label": "alphabet"}
+{"text": "ф буква", "label": "alphabet"}
+{"text": "эф", "label": "alphabet"}
+{"text": "х", "label": "alphabet"}
+{"text": "Х", "label": "alphabet"}
+{"text": "буква х", "label": "alphabet"}
+{"text": "что значит буква х", "label": "alphabet"}
+{"text": "это буква х", "label": "alphabet"}
+{"text": "х буква", "label": "alphabet"}
+{"text": "ха", "label": "alphabet"}
+{"text": "ц", "label": "alphabet"}
+{"text": "Ц", "label": "alphabet"}
+{"text": "буква ц", "label": "alphabet"}
+{"text": "что значит буква ц", "label": "alphabet"}
+{"text": "это буква ц", "label": "alphabet"}
+{"text": "ц буква", "label": "alphabet"}
+{"text": "цэ", "label": "alphabet"}
+{"text": "ч", "label": "alphabet"}
+{"text": "Ч", "label": "alphabet"}
+{"text": "буква ч", "label": "alphabet"}
+{"text": "что значит буква ч", "label": "alphabet"}
+{"text": "это буква ч", "label": "alphabet"}
+{"text": "ч буква", "label": "alphabet"}
+{"text": "че", "label": "alphabet"}
+{"text": "ш", "label": "alphabet"}
+{"text": "Ш", "label": "alphabet"}
+{"text": "буква ш", "label": "alphabet"}
+{"text": "что значит буква ш", "label": "alphabet"}
+{"text": "это буква ш", "label": "alphabet"}
+{"text": "ш буква", "label": "alphabet"}
+{"text": "ша", "label": "alphabet"}
+{"text": "щ", "label": "alphabet"}
+{"text": "Щ", "label": "alphabet"}
+{"text": "буква щ", "label": "alphabet"}
+{"text": "что значит буква щ", "label": "alphabet"}
+{"text": "это буква щ", "label": "alphabet"}
+{"text": "щ буква", "label": "alphabet"}
+{"text": "ща", "label": "alphabet"}
+{"text": "ъ", "label": "alphabet"}
+{"text": "Ъ", "label": "alphabet"}
+{"text": "буква ъ", "label": "alphabet"}
+{"text": "что значит буква ъ", "label": "alphabet"}
+{"text": "это буква ъ", "label": "alphabet"}
+{"text": "ъ буква", "label": "alphabet"}
+{"text": "твёрдый знак", "label": "alphabet"}
+{"text": "ы", "label": "alphabet"}
+{"text": "Ы", "label": "alphabet"}
+{"text": "буква ы", "label": "alphabet"}
+{"text": "что значит буква ы", "label": "alphabet"}
+{"text": "это буква ы", "label": "alphabet"}
+{"text": "ы буква", "label": "alphabet"}
+{"text": "ь", "label": "alphabet"}
+{"text": "Ь", "label": "alphabet"}
+{"text": "буква ь", "label": "alphabet"}
+{"text": "что значит буква ь", "label": "alphabet"}
+{"text": "это буква ь", "label": "alphabet"}
+{"text": "ь буква", "label": "alphabet"}
+{"text": "мягкий знак", "label": "alphabet"}
+{"text": "э", "label": "alphabet"}
+{"text": "Э", "label": "alphabet"}
+{"text": "буква э", "label": "alphabet"}
+{"text": "что значит буква э", "label": "alphabet"}
+{"text": "это буква э", "label": "alphabet"}
+{"text": "э буква", "label": "alphabet"}
+{"text": "ю", "label": "alphabet"}
+{"text": "Ю", "label": "alphabet"}
+{"text": "буква ю", "label": "alphabet"}
+{"text": "что значит буква ю", "label": "alphabet"}
+{"text": "это буква ю", "label": "alphabet"}
+{"text": "ю буква", "label": "alphabet"}
+{"text": "я", "label": "alphabet"}
+{"text": "Я", "label": "alphabet"}
+{"text": "буква я", "label": "alphabet"}
+{"text": "что значит буква я", "label": "alphabet"}
+{"text": "это буква я", "label": "alphabet"}
+{"text": "я буква", "label": "alphabet"}
+{"text": "уа", "label": "alphabet"}
+{"text": "ау?", "label": "alphabet"}
+{"text": "аа", "label": "alphabet"}
+{"text": "уу", "label": "alphabet"}
+{"text": "ыы", "label": "alphabet"}
+{"text": "ээ", "label": "alphabet"}
+{"text": "аю", "label": "alphabet"}
+{"text": "уя", "label": "alphabet"}
+{"text": "ая", "label": "alphabet"}
+{"text": "юя", "label": "alphabet"}
+{"text": "ба", "label": "alphabet"}
+{"text": "ва", "label": "alphabet"}
+{"text": "га", "label": "alphabet"}
+{"text": "да", "label": "alphabet"}
+{"text": "ма", "label": "alphabet"}
+{"text": "на", "label": "alphabet"}
+{"text": "па", "label": "alphabet"}
+{"text": "ра", "label": "alphabet"}
+{"text": "са", "label": "alphabet"}
+{"text": "та", "label": "alphabet"}
+{"text": "ла", "label": "alphabet"}
+{"text": "тр", "label": "alphabet"}
+{"text": "ст", "label": "alphabet"}
+{"text": "ск", "label": "alphabet"}
+{"text": "зд", "label": "alphabet"}
+{"text": "чт", "label": "alphabet"}
+{"text": "шк", "label": "alphabet"}
+{"text": "щк", "label": "alphabet"}
+{"text": "ппривет", "label": "greeting"}
+{"text": "прривет", "label": "greeting"}
+{"text": "приввет", "label": "greeting"}
+{"text": "привеет", "label": "greeting"}
+{"text": "приветт", "label": "greeting"}
+{"text": "пппрривет", "label": "greeting"}
+{"text": "привееет", "label": "greeting"}
+{"text": "приветик", "label": "greeting"}
+{"text": "прив", "label": "greeting"}
+{"text": "приве", "label": "greeting"}
+{"text": "привед", "label": "greeting"}
+{"text": "превет", "label": "greeting"}
+{"text": "прива", "label": "greeting"}
+{"text": "здравствуйте", "label": "greeting"}
+{"text": "здраствуйте", "label": "greeting"}
+{"text": "здравствуй", "label": "greeting"}
+{"text": "дарова", "label": "greeting"}
+{"text": "дратути", "label": "greeting"}
