@@ -1,0 +1,2 @@
+# Delta 1 Flash uses only the Python standard library.
+# Optional for future experiments: torch, numpy, datasets, transformers.
